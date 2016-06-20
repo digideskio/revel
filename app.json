@@ -1,0 +1,17 @@
+{
+  "name": "revel",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/digideskio/heroku-buildpack-go-revel"
+    }
+  ]
+}
